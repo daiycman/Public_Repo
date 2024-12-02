@@ -1,1 +1,2 @@
-# Public_Repo
+# Public
+A public repo of work
