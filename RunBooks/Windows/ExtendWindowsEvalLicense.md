@@ -9,7 +9,7 @@
 
 --- 
 
-As you can see this windows 2022 license is expired so we need to renew it
+OH NO! My windows 2022 license is expired so we need to renew it
 
 ![alt text](../Photos/Windows/ReArm/expiredServer.png)
 
