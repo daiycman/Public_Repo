@@ -3,7 +3,7 @@
 My name is IycMan (IceMan) or Joe when we are plugged into the matrix. :bowtie:
 
 This repository is designed to help fellow tech enthusiasts and IT professionals jumpstart their journey in scripting and building a home lab.
-Whether you're a seasoned sysadmin, an aspiring DevOps engineer, or someone passionate about tinkering with tech, my hope is that you will find useful resources, scripts, and ideas to experiment with.
+Whether you're a seasoned sysadmin, an aspiring Network Security engineer, or someone passionate about tinkering with tech, my hope is that you will find useful resources, scripts, and ideas to experiment with.
 
 ## What You Will Find Here
 
