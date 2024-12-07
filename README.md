@@ -9,7 +9,7 @@ Whether you're a seasoned sysadmin, an aspiring Network Security engineer, or so
 
 - Automation Scripts: Random scripts I have wrote over time for various environments
 - Home Lab Guides: Step-by-step instructions on how to set up tools and tweaks I've made to help (of course with pictures and commands)
-- Tech Tutorials: Bite Sized guides on quarks in tech. My biggest question when starting out was "WHERE AND HOW DO I FIND THAT"
+- Tech Tutorials: Bite Sized guides on quirks in tech. My biggest question when starting out was "WHERE AND HOW DO I FIND THAT"
 
 ## Why This Repo Exists
 
