@@ -50,10 +50,12 @@
 - Once you set the password you will be prompted with the "start free 30 day trial" or "purchase key". Click on either one and be redirected to the Unraid Account manager
   ![alt text](<../Photos/Unraid/Initial_Install/Screenshot 2024-12-20 150549.png>)
 - Login or create an account for Unraid
+  
   ![alt text](<../Photos/Unraid/Initial_Install/Screenshot 2024-12-26 134300.png>)
 - From the Unraid Account manager page, on the left side panel, click on start trial
   ![alt text](<../Photos/Unraid/Initial_Install/Screenshot 2024-12-26 134326.png>)
 - Click on confirm trial start
+  
   ![alt text](<../Photos/Unraid/Initial_Install/Screenshot 2024-12-26 134346.png>)
 - Once completed you will be presented with this screen and when you click back to unraid you will see the Unraid server should Trial
   ![alt text](<../Photos/Unraid/Initial_Install/Screenshot 2024-12-26 134728.png>)
