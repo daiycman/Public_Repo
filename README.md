@@ -3,13 +3,13 @@
 My name is IycMan (IceMan) or Joe when we are plugged into the matrix. :bowtie:
 
 This repository is designed to help fellow tech enthusiasts and IT professionals jumpstart their journey in scripting and building a home lab.
-Whether you're a seasoned sysadmin, an aspiring DevOps engineer, or someone passionate about tinkering with tech, my hope is that you will find useful resources, scripts, and ideas to experiment with.
+Whether you're a seasoned sysadmin, an aspiring Network Security engineer, or someone passionate about tinkering with tech, my hope is that you will find useful resources, scripts, and ideas to experiment with.
 
 ## What You Will Find Here
 
 - Automation Scripts: Random scripts I have wrote over time for various environments
 - Home Lab Guides: Step-by-step instructions on how to set up tools and tweaks I've made to help (of course with pictures and commands)
-- Tech Tutorials: Bite Sized guides on quarks in tech. My biggest question when starting out was "WHERE AND HOW DO I FIND THAT"
+- Tech Tutorials: Bite Sized guides on quirks in tech. My biggest question when starting out was "WHERE AND HOW DO I FIND THAT"
 
 ## Why This Repo Exists
 
