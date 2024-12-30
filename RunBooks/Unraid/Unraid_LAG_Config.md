@@ -23,7 +23,7 @@
 
 ## Configure Cisco Switch
 
--Log into the Cisco switch
+- Log into the Cisco switch
 - Configure the switchports
   - Assign the switchport to a channel group. This will also create the port channel for the switch
   

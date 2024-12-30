@@ -85,7 +85,8 @@ The basic layout of the command is:
 
 
 The test command I used to test the data transfer that i built with the mounting points above:
-    'rsync -avh "/mnt/remotes/192.168.89.213_TNSHARE/Plex/DivX Movies" "/mnt/user/PlexData"'
+
+    "rsync -avh "/mnt/remotes/192.168.89.213_TNSHARE/Plex/DivX Movies" "/mnt/user/PlexData""
 
 **Note** make sure that you have the forward slashes / configured correctly. If you dont want to include the folder in the transfer then include a trailing /. If you want to include the top folder and then all of the folders to be underneath that folder dont include the trailing /
 
