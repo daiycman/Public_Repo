@@ -11,7 +11,9 @@
 ## PreReqs:
 - 2GB+ USB with a Globally Unique Identifier (GUID)
   - USB's that I have used and has a GUID:
-  ![alt text](<../Photos/Unraid/Initial_Install/Screenshot 2024-12-26 133323.png>)
+  
+  ![alt text](<../Photos/Unraid/Initial_Install/Screenshot 2024-12-30 135114.png>)
+  
 - Hardware for the Unraid System
   - System in this build:
     - Supermicro X10DRU-i+ , Version 0123456789

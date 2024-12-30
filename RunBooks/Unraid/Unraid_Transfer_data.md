@@ -30,18 +30,30 @@ To make this data transfer slightly easier (maybe) I will be installed the the U
 
 - Click on **ADD REMOTE SMB/NFS SHARE**
 - Choose either the NFS or SMB icon. Click Next
+  
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 130958.png>)
+
 - Type in the IP or URL to your share
+  
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131008.png>)
+
 - Type in the username for the SMB share
+  
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-30 130142.png>)
+
 - Type in the password
+  
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131027.png>)
+
 - If needed type in your domain. I didnt need to type in a domain
+  
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131034.png>)
+
 - Click on **LOAD SHARES**. Doing this it should load all of the shares on the server into a drop down. That way you know your previous information was correct
 - Select the correct share and click done
+  
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131042.png>)
+
 - You should see the Source now in the page
 - Click on mount to mount the drive to the Unraid server
   
@@ -58,6 +70,7 @@ The basic layout of the command is:
 - Find the Source mounting point
   - Click on the hyperlink of the SMB share we just mounted
   - Find the folder that you want to transfer and copy the index of that
+  
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131149.png>)
 
 - Find the Destination mounting point
@@ -65,7 +78,9 @@ The basic layout of the command is:
   - Click on the Hyperlink box with an arrow next to the name of the Share
   
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-30 131729.png>)
+
   - Copy the index
+    
     ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-30 131912.png>)
 
 
@@ -83,11 +98,13 @@ Example:
 
 - SSH into the Unraid Server
 - Copy the command that we built above and click enter
+ 
  ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131502.png>)
 
  ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131512.png>)
 
 - Go to the Folder that you copied the data to and verify the data transferred
-  ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131526.png>) 
   
+  ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131526.png>) 
+
   ![alt text](<../Photos/Unraid/Transfer_Truenas_Data/Screenshot 2024-12-22 131532.png>)

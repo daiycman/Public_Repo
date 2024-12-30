@@ -24,6 +24,7 @@ On first install Unraid will automatically prompt you to configure the docker, b
    -  Assign a share folder for the transcode folder. It doesnt matter much. Just pick a folder or create one for this docker
 -  Host Path 3:
    -  Same thing as Host 2. Assign it a folder or create one
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 131934.png>)
   
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 131951.png>)
@@ -36,6 +37,7 @@ On first install Unraid will automatically prompt you to configure the docker, b
    -  Host Path: The folder in the Unraid Share that hosts the files you want to use in Plex
    -  Access Mode: Read/Write
    -  Click on Add
+  
     ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133625.png>) 
     
     ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133655.png>)
@@ -54,25 +56,43 @@ This will configure the movies sections to get Plex to recognize your files on U
 
 - From the Unraid Dashboard
 - Right Click on the Plex Media Server Icon and Click WebUI
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 132227.png>)
+
 - Plex should load
 - Sign into the Plex Server with your account or create an account
 - From the Plex Home
 - Click More
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133720.png>)
+
 - Click on the elipses on the right of the server name
 - Click on Manage Server -> Settings
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133801.png>)
+
 - On the left go down to libraries
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133818.png>)
+
 - Click on **add Library**
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133825.png>)
+
 - Select the type of media you are going to link. Click next
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133830.png>)
+
 - Click **Browse for Media Folder**
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133837.png>)
+
 - Find the Folder that you created above
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133846.png>)
+
 - Click **Add Library**
+  
   ![alt text](<../Photos/Unraid/PlexInstall/Screenshot 2024-12-22 133852.png>)
+  
 - Repeat for the other types of media
