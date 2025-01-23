@@ -65,7 +65,7 @@ To make this data transfer slightly easier (maybe) I will be installed the the U
 Using Rsync will help if any of the data gets interrupted during the transfer. Rsync is used for data backups to make sure only the files that are NOT already up to date in the destination are transfer.
 
 The basic layout of the command is:
-    "rsync -avh source dest"
+    rsync -avh source dest
 
 - Find the Source mounting point
   - Click on the hyperlink of the SMB share we just mounted
@@ -86,14 +86,14 @@ The basic layout of the command is:
 
 The test command I used to test the data transfer that i built with the mounting points above:
 
-    "rsync -avh "/mnt/remotes/192.168.89.213_TNSHARE/Plex/DivX Movies" "/mnt/user/PlexData""
+    rsync -avh "/mnt/remotes/192.168.89.213_TNSHARE/Plex/DivX Movies" "/mnt/user/PlexData"
 
 **Note** make sure that you have the forward slashes / configured correctly. If you dont want to include the folder in the transfer then include a trailing /. If you want to include the top folder and then all of the folders to be underneath that folder dont include the trailing /
 
 Example:
 
-    "/mnt/remotes/192.168.89.213_TNSHARE/Plex/DivX Movies"  "/mnt/user/PlexData" -> Builds out the following: "/mnt/user/PlexData/DivX Movies/...."
-    "/mnt/remotes/192.168.89.213_TNSHARE/Plex/DivX Movies/"  "/mnt/user/PlexData" -> Builds out the following: "/mnt/user/PlexData/...."
+    /mnt/remotes/192.168.89.213_TNSHARE/Plex/DivX Movies"  "/mnt/user/PlexData" -> Builds out the following: "/mnt/user/PlexData/DivX Movies/....
+    /mnt/remotes/192.168.89.213_TNSHARE/Plex/DivX Movies/"  "/mnt/user/PlexData" -> Builds out the following: "/mnt/user/PlexData/....
 
 ## Run data transfer and verify
 
