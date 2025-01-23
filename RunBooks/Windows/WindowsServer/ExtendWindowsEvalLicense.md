@@ -15,7 +15,7 @@ OH NO! My windows 2022 license is expired so we need to renew it
 
 launch the command prompt as an Administrator and run the following command:
 
-    "slmgr -dlv"
+    slmgr -dlv
 
 ![alt text](../../Photos/Windows/WindowsServer/ReArm/slmgr_DLV.png)
 
@@ -25,7 +25,7 @@ Click OK
 
 run the next command to rearm:
 
-    "slmgr -rearm"
+    slmgr -rearm
 
 ![alt text](../../Photos/Windows/WindowsServer/ReArm/slmgr_Rearm.png)
 
@@ -37,6 +37,6 @@ After reboot you should see the new valid message for the server
 
 if you want to you can also run the command prompt as admin and run the following command:
 
-    "slmgr -dli"
+    slmgr -dli
 
 ![alt text](../../Photos/Windows/WindowsServer/ReArm/slmgr_dli.png)
