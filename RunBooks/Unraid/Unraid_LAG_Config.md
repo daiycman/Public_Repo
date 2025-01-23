@@ -27,16 +27,16 @@
 - Configure the switchports
   - Assign the switchport to a channel group. This will also create the port channel for the switch:
   
-    channel-group x mode active
+        channel-group x mode active
 
 - Configure the port channel
   - Configure the portchannel as an access port
   - Configure the portchannel to the vlan
   - Make the port a spanning-tree portfast to make sure that the switch knows there is a host on the other side:
   
-    switchport mode access
-    switchport access vlan x
-    spanning-tree portfast
+        switchport mode access
+        switchport access vlan x
+        spanning-tree portfast
 
 ![alt text](<../Photos/Unraid/LAG_Configuration/Screenshot 2024-12-21 170501.png>)
 
