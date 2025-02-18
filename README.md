@@ -16,6 +16,6 @@ Whether you're a seasoned sysadmin, an aspiring Network Security engineer, or so
 When I started in tech... I was lost. I didnt even know you could create a homelab. Then when I learned about creating my own environment... It was a struggle to find consistent data.
 I would have to look all over the web for certain issues I was facing when figuring anything out. I hope to bring more consolidated plans to this Repo for everyone. I want to make the process easier by providing all of my pit falls so others can learn from my mistakes!
 
-## Shameless Plug
+## Shameless Plugs
 
-Please subscribe to my [YouTube](https://www.youtube.com/@TechTernative). It would mean the world to me to see you over there!
+Please subscribe to my [YouTube](https://www.youtube.com/@TechTernative) or check out my [Blog](https://www.techternative.com). It would mean the world to me to see you over there!
