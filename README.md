@@ -18,4 +18,4 @@ I would have to look all over the web for certain issues I was facing when figur
 
 ## Shameless Plug
 
-Please subscribe to my [YouTube](https://www.youtube.com/@TechTernative)
+Please subscribe to my [YouTube](https://www.youtube.com/@TechTernative). It would mean the world to me to see you over there!
