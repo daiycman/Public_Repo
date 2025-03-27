@@ -6,7 +6,7 @@
 
 ### Description: This describes how I set up my lab for comparing Cloudflare, NextDNS, OpenDNS, and Quad9
 
---- 
+---
 
 ## PreReqs
 - Set up accounts for Cloudflare, NextDNS, and if you want OpenDNS/Umbrella
@@ -19,7 +19,10 @@
 - If you navigate to urlhause.abouse.ch you can click on the Access Data to see all of the options to choose from
 ![alt text](<../../Photos/Cloudflare/DNS/Screenshot 2025-03-02 095738.png>)
 
-- Since I used the Hostfile you can click and download that file or use the [script I used here:](https://github.com/daiycman/Public_Repo/blob/main/PythonScripts/URLHausExtract.py) 
+- Since I used the Hostfile you can click and download that file or use the [script I used here:](https://github.com/daiycman/Public_Repo/blob/main/PythonScripts/URLHausExtract.py)
+
+- You will need to strip away the bad information from the hostfile
+
 
 ## Linux Bash Script
 
@@ -63,3 +66,10 @@
         sh yourbashscriptname.sh >> outputfilename.csv
 
 ![alt text](<../../Photos/Cloudflare/DNS/Screenshot 2025-03-27 124608.png>)
+
+## Results
+
+- These are the IPs that are pointing to specific block pages
+ - Cloudflare 162.159.36.12
+ - AdGuard 94.140.14.33
+ - NextDNS doesnt resolve IPs but does show up as 0.0.0.0 to filter out
