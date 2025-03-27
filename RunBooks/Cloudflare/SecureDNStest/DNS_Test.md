@@ -55,5 +55,5 @@
             ip6=`dig @$ns6_ip +short $domain |tail -n1`; # IP address lookup DNS server6
             ip7=`dig @$ns7_ip +short $domain |tail -n1`; # IP address lookup DNS server7
                     echo "$domain,$ip1,$ip2,$ip3,$ip4,$ip5,$ip6,$ip7";    
-        #    sleep $loop_wait # Pause before the next lookup to avoid flooding NS    
+        #    sleep $loop_wait # Pause before the next lookup to avoid flooding NS -- Uncomment as needed
         done; 
