@@ -57,3 +57,9 @@
                     echo "$domain,$ip1,$ip2,$ip3,$ip4,$ip5,$ip6,$ip7";    
         #    sleep $loop_wait # Pause before the next lookup to avoid flooding NS -- Uncomment as needed
         done; 
+
+- To run the bash script and save it as a csv file that is generated run the following command in your linux box from the directory that you saved the bash script:
+
+        sh yourbashscriptname.sh >> outputfilename.csv
+
+![alt text](<../../Photos/Cloudflare/DNS/Screenshot 2025-03-27 124608.png>)
