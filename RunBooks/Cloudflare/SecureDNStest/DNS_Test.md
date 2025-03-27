@@ -19,7 +19,7 @@
 - If you navigate to urlhause.abouse.ch you can click on the Access Data to see all of the options to choose from
 ![alt text](<../../Photos/Cloudflare/DNS/Screenshot 2025-03-02 095738.png>)
 
-- Since I used the Hostfile you can click and download that file or use the [script I used here:](Public_Repo\PythonScripts\URLHausExtract.py) 
+- Since I used the Hostfile you can click and download that file or use the [script I used here:](https://github.com/daiycman/Public_Repo/blob/main/PythonScripts/URLHausExtract.py) 
 
 ## Linux Bash Script
 
